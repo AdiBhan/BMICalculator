@@ -1,8 +1,9 @@
-#
-# App: BMICalculator
-# Version 1.0.2
-# Author: Adi Bhan
-#
+'''
+ App: BMICalculator 
+ Description: Using tkinter, I created a simple GUI that takes the a user's input and displays their BMI along with the number of pounds they must lose to become healthy
+ Version 1.0.2
+ Author: Adi Bhan 
+'''
 
 from tkinter import *
 from settings import *
