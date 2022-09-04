@@ -1,4 +1,4 @@
-# BMICalculator
+# BMICalculator 1.0.5!
 
  Using Tkinter, I created a simple and convenient GUI that allows you to find your BMI by entering your height and weight in both the metric and the imperial system. 
  
